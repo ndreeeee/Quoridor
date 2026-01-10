@@ -15,9 +15,7 @@ Gioco Quoridor implementato in SWI-Prolog con server web.
    - Seleziona **`quoridor.pl`** e premi **Apri**. Aspetta che compili.
    - Ripeti per **`server.pl`**.
 
-3. Avvia il server:
-   
-?- server(8000).
+3. Avvia il server: ?- server(8000).
 
 Se ottieni `true`, il server è attivo!
 
