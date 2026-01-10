@@ -26,13 +26,13 @@ Se ottieni `true`, il server è attivo!
 
 ## Risoluzione problemi
 
-- **Errore compilazione**: Assicurati che i file siano nella stessa cartella di SWI-Prolog.
-- **Porta occupata**: Cambia porta, es. `server(8080).` e usa `localhost:8080`.
-- **Browser non carica**: Verifica che il server dia `true` e riprova.
+- **Errore compilazione**: assicurati che i file siano nella stessa cartella di SWI-Prolog.
+- **Porta occupata**: cambia porta, es. `server(8080).` e usa `localhost:8080`.
+- **Browser non carica**: verifica che il server dia `true` e riprova.
 
 ## File principali
 
-- `quoridor.pl`: Logica del gioco.
-- `serve.pl`: Server web.
+- `quoridor.pl`: logica del gioco.
+- `server.pl`: server web.
 
 Contributi benvenuti! 🚀
