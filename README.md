@@ -34,5 +34,3 @@ Se ottieni `true`, il server è attivo!
 
 - `quoridor.pl`: logica del gioco.
 - `server.pl`: server web.
-
-Contributi benvenuti! 🚀
